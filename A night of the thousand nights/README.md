@@ -34,3 +34,14 @@
     violet	#EE82EE	rgb(238, 130, 238)
     white	#FFFFFF	rgb(255, 255, 255)
     yellow	#FFFF00	rgb(255, 255, 0)
+
+
+
+
+
+
+
+## کد شعر است.
+وردپرس فارسی :))
+https://fa.wordpress.org/
+
